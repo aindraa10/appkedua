@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "aind",
+      "email": "aind@mail.com",
+      "bidang": "aaasd",
+      "id": 1
+    },
+    {
+      "name": "abcd",
+      "email": "aa@mail.com",
+      "bidang": "fe",
+      "id": 2
+    },
+    {
+      "name": "asd",
+      "email": "asd@mail.com",
+      "bidang": "be",
+      "id": 3
+    }
+  ]
+}
